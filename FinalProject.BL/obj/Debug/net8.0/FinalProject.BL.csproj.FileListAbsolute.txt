@@ -1,0 +1,15 @@
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.BL\bin\Debug\net8.0\FinalProject.BL.deps.json
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.BL\bin\Debug\net8.0\FinalProject.BL.dll
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.BL\bin\Debug\net8.0\FinalProject.BL.pdb
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.BL\bin\Debug\net8.0\FinalProject.DAL.dll
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.BL\bin\Debug\net8.0\FinalProject.DAL.pdb
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.BL\obj\Debug\net8.0\FinalProject.BL.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.BL\obj\Debug\net8.0\FinalProject.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.BL\obj\Debug\net8.0\FinalProject.BL.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.BL\obj\Debug\net8.0\FinalProject.BL.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.BL\obj\Debug\net8.0\FinalProject.BL.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.BL\obj\Debug\net8.0\FinalPro.0F589D09.Up2Date
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.BL\obj\Debug\net8.0\FinalProject.BL.dll
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.BL\obj\Debug\net8.0\refint\FinalProject.BL.dll
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.BL\obj\Debug\net8.0\FinalProject.BL.pdb
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.BL\obj\Debug\net8.0\ref\FinalProject.BL.dll

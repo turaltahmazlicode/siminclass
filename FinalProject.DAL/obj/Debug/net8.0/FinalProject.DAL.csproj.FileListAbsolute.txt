@@ -1,0 +1,14 @@
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.DAL\bin\Debug\net8.0\FinalProject.DAL.deps.json
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.DAL\bin\Debug\net8.0\FinalProject.DAL.runtimeconfig.json
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.DAL\bin\Debug\net8.0\FinalProject.DAL.dll
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.DAL\bin\Debug\net8.0\FinalProject.DAL.pdb
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.DAL\obj\Debug\net8.0\FinalProject.DAL.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.DAL\obj\Debug\net8.0\FinalProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.DAL\obj\Debug\net8.0\FinalProject.DAL.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.DAL\obj\Debug\net8.0\FinalProject.DAL.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.DAL\obj\Debug\net8.0\FinalProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.DAL\obj\Debug\net8.0\FinalProject.DAL.dll
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.DAL\obj\Debug\net8.0\refint\FinalProject.DAL.dll
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.DAL\obj\Debug\net8.0\FinalProject.DAL.pdb
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.DAL\obj\Debug\net8.0\FinalProject.DAL.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\PlumberMVC\FinalProject\FinalProject.DAL\obj\Debug\net8.0\ref\FinalProject.DAL.dll
